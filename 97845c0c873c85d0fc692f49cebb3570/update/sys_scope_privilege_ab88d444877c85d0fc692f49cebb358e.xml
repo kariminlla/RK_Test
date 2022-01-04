@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Chi_Test_RK">97845c0c873c85d0fc692f49cebb3570</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>AC96998</sys_created_by>
+        <sys_created_on>2021-12-28 04:17:27</sys_created_on>
+        <sys_id>ab88d444877c85d0fc692f49cebb358e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.update</sys_name>
+        <sys_package display_value="Chi_Test_RK" source="x_twte2_chi_test_r">97845c0c873c85d0fc692f49cebb3570</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chi_Test_RK">97845c0c873c85d0fc692f49cebb3570</sys_scope>
+        <sys_update_name>sys_scope_privilege_ab88d444877c85d0fc692f49cebb358e</sys_update_name>
+        <sys_updated_by>AC96998</sys_updated_by>
+        <sys_updated_on>2021-12-28 04:17:27</sys_updated_on>
+        <target_name>GlideRecord.update</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

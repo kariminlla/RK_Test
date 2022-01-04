@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE">
+        <sp_angular_provider display_value="Test_Dir">da661c40877c85d0fc692f49cebb35e8</sp_angular_provider>
+        <sp_widget display_value="Test_Widget">1f0614cc873c85d0fc692f49cebb3566</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>AC96998</sys_created_by>
+        <sys_created_on>2021-12-28 04:08:33</sys_created_on>
+        <sys_id>5186dc40877c85d0fc692f49cebb352d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test_Dir.Test_Widget</sys_name>
+        <sys_package display_value="Chi_Test_RK" source="x_twte2_chi_test_r">97845c0c873c85d0fc692f49cebb3570</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Chi_Test_RK">97845c0c873c85d0fc692f49cebb3570</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_5186dc40877c85d0fc692f49cebb352d</sys_update_name>
+        <sys_updated_by>AC96998</sys_updated_by>
+        <sys_updated_on>2021-12-28 04:08:33</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+</record_update>
